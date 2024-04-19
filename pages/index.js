@@ -1,2 +1,2 @@
-const Home=()=>(<h1>Hello Worldd!</h1>)
+const Home=()=>(<h1>Hello</h1>)
 export default Home
